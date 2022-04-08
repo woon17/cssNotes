@@ -1,2 +1,1 @@
-# cssNotes
-css reference
+# CSS Notes
